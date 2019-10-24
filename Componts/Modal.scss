@@ -1,0 +1,24 @@
+
+
+.LeaveModal {
+
+  .ant-modal-body {
+    font-size: 0.875rem;
+    color: rgba(0, 0, 0, .45);
+  }
+
+  .label {
+    font-size: 0.875rem;
+    color: $gray-600;
+    display: block;
+    margin-bottom: 0;
+  }
+
+  .ant-row {
+    margin-bottom: 1.5rem;
+  }
+
+  .ant-row:last-child {
+    margin-bottom: 0;
+  }
+}
